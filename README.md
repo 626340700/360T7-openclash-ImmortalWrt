@@ -9,7 +9,7 @@
 
 - ~~纯净版 无任何非必要插件~~
 - 内置构建了OpenClash及其相关依赖
-- `hanwckf` & `padavanonly` 两个版本，各位酌情自取
+- `hanwckf` 版本
 - 亦欢迎 Frok & Star
 
 ## ❤️感谢
